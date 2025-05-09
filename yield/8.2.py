@@ -32,7 +32,6 @@ def task5(x, e):
     a = 1
     y = 1
     i = 1
-
     while abs(a) >= e:
         a *= x/i
         y += a
